@@ -197,7 +197,7 @@ Background pipelines:
 
 ---
 
-## 9) Next Actions (I can help with any of these)
+## 9) Next Actions
 
 - Provide sample job + course datasets (I can link sources & example CSVs)
 - Generate Lambda starter code for resume processing (Python)
@@ -205,6 +205,3 @@ Background pipelines:
 - Create QuickSight dataset templates or sample dashboard screenshots
 
 ---
-
-*Ready to start? Tell me which of the "Next Actions" you want first (e.g., sample datasets, Lambda starter code, or the SageMaker notebook), and I’ll produce the artifact.*
-
